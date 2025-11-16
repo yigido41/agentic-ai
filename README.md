@@ -445,7 +445,7 @@ chain = prompt | llm | output_parser
 
 - **mlflow**: Experiment tracking
 - **dvc**: Data version control
-- **ragas**: RAG evaluation
+- **langsmith**: To trace LLM calls and langchain chain calls/execution also to evaluate the ai agent/apps
 
 ---
 
@@ -463,48 +463,16 @@ chain = prompt | llm | output_parser
 
 ---
 
-## 🔍 Troubleshooting
-
-### Common Issues
-
-1. **ModuleNotFoundError: No module named 'llms'**
-   - **Solution**: Ensure `sys.path.insert()` is called before importing `llms`
-
-2. **TAVILY_API_KEY not found**
-   - **Solution**: Add key to `.env` or agent will work without search tool
-
-3. **Ollama model not found**
-   - **Solution**: Run `ollama pull llama3.1:8b` or update default model name
-
-4. **Output parsing errors**
-   - **Solution**: `handle_parsing_errors=True` is already enabled
-
----
 
 ## 📖 Further Reading
 
 - [LangChain Documentation](https://python.langchain.com/)
 - [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
-- [ReAct Paper](https://arxiv.org/abs/2210.03629)
 - [Ollama Documentation](https://ollama.ai/docs)
 
 ---
 
-## 🤝 Contributing
 
-This is a learning project demonstrating AI agent patterns. Feel free to:
-- Add new agent architectures
-- Implement additional tools
-- Improve documentation
-- Share use cases
-
----
-
-## 📝 License
-
-See LICENSE file for details.
-
----
 
 ## 🎓 Learning Path
 
