@@ -17,3 +17,4 @@ ragas
 tqdm
 datasets
 langchain-tavily
+langgraph
